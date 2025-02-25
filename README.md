@@ -1,7 +1,7 @@
 # Dataanalyst
-🚀 Visualizing Sales Data with an Interactive Excel Dashboard! 📊
+##🚀 Visualizing Sales Data with an Interactive Excel Dashboard! 📊
 
-I recently enhanced my Excel skills by creating this dynamic Slicer Dashboard, which allows for quick filtering and visualization of sales data across multiple dimensions.
+##I recently enhanced my Excel skills by creating this dynamic Slicer Dashboard, which allows for quick filtering and visualization of sales data across multiple dimensions.
 
 🟢 What’s Special?
 The Slicer feature empowers this dashboard by enabling easy filtering of data by month. In this example, I’ve selected several months, allowing for a targeted analysis of sales performance during specific periods.
